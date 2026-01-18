@@ -1,15 +1,21 @@
-## Dashboard PROJECT
-GO TO 
-[SEE ME LIVE](https://nendoc.vercel.app/)
-## Issue fixed 
-the problem of loading skeletons accuires because the page is considred as static so by default it wont take considerations of any loading.tsx
-so doing what i did is just forcing the page to be considred as dynamic (do not try)<br>
-the command line is :<br>
-export const dynamic = 'force-dynamic';
-## finalization
-This project is all set to production <br>
-Im happy to share it with You <br>
-## To login:
-Email:rzignadhir@gmail.com <br>
-password:123456
+# TTN Invoice Application
+
+## Overview
+
+TTN Invoice Application is an open-source invoicing solution designed to meet government compliance requirements. It provides a free, user-friendly alternative to existing commercial solutions, enabling businesses to streamline their invoicing processes.
+
+## Features
+
+- **Digital Signature Support**: Sign invoices using TUNSIGN technology
+- **Electronic Invoice Generation**: Create compliant electronic invoices (FACTURE ELECTRONIQUE) via the TTN platform
+- **Government Certified**: Officially homologated by the government
+
+## Getting Started
+
+WAIT FOR IT , when the application ready ...
+
+
+## Support
+
+Contact me
 
