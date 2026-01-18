@@ -19,3 +19,4 @@ WAIT FOR IT , when the application ready ...
 
 Contact me
 
+[Exemple_facture_qr.pdf](https://github.com/user-attachments/files/24694567/Exemple_facture_qr.pdf)
